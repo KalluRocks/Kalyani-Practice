@@ -1,0 +1,15 @@
+numpy
+pyarrow
+pandas
+matplotlib
+seaborn
+plotly
+nbformat
+scikit-learn
+statsmodels
+pmdarima
+streamlit
+gradio
+google-generativeai
+beautifulsoup4
+python-dotenv
