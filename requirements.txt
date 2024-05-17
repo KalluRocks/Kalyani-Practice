@@ -13,3 +13,6 @@ gradio
 google-generativeai
 beautifulsoup4
 python-dotenv
+asyncio
+aiohttp
+ipykernel
